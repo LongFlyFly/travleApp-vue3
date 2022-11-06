@@ -1,0 +1,44 @@
+{
+  "id": "3658724",
+  "name": "travle",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577341",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "1166722",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "5387689",
+      "name": "地点定位",
+      "font_class": "didiandingwei",
+      "unicode": "eb31",
+      "unicode_decimal": 60209
+    },
+    {
+      "icon_id": "5732759",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "ec32",
+      "unicode_decimal": 60466
+    },
+    {
+      "icon_id": "11481160",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    }
+  ]
+}
